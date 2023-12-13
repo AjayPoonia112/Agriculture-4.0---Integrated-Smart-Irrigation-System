@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agricultural Monitoring Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Agricultural Monitoring Dashboard</h1>
+  </header>
+  
+  <main>
+    <section id="sensor-data">
+      <h2>Sensor Data</h2>
+      <div class="sensor-reading">
+        <h3>Temperature</h3>
+        <p id="temperature">Loading...</p>
+      </div>
+      <div class="sensor-reading">
+        <h3>Soil Moisture</h3>
+        <p id="soilMoisture">Loading...</p>
+      </div>
+      <!-- Add more sensor readings as needed -->
+    </section>
+
+    <section id="control-panel">
+      <h2>Control Panel</h2>
+      <label for="controlMode">Control Mode:</label>
+      <select id="controlMode">
+        <option value="manual">Manual</option>
+        <option value="automatic">Automatic</option>
+      </select>
+
+      <button id="startAutomatic">Start Automatic</button>
+      <button id="stopAutomatic">Stop Automatic</button>
+
+      <!-- Add more controls for specific devices or actions -->
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
+
