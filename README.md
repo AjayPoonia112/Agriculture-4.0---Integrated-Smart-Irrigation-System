@@ -30,6 +30,13 @@ Explore the first phase of our project through the demo video:
 
 [Watch Demo Video](https://youtu.be/XoihcVOr_Iw?si=bYq9I47bqyoIC4Vg)
 
+##AR App
+
+[**Click Here to Download AR app**](https://drive.google.com/drive/folders/12dUQHkdIdIohXmN9ZD7yIzJKqu88YuMo)
+
+![Scan for AR app](![image](https://github.com/AjayPoonia112/Agriculture-4.0---Integrated-Smart-Irrigation-System/assets/135602724/5de53214-41ae-43bc-af66-33488641571d)
+)
+
 ## Stay Connected
 
 Connect with us to stay updated on the progress of our Agriculture 4.0 project:
