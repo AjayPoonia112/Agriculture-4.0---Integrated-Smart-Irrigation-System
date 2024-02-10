@@ -34,8 +34,7 @@ Explore the first phase of our project through the demo video:
 
 [**Click Here to Download AR app**](https://drive.google.com/drive/folders/12dUQHkdIdIohXmN9ZD7yIzJKqu88YuMo)
 
-![Scan for AR app](![image](https://github.com/AjayPoonia112/Agriculture-4.0---Integrated-Smart-Irrigation-System/assets/135602724/5de53214-41ae-43bc-af66-33488641571d)
-)
+![Scan for AR app](https://github.com/AjayPoonia112/Agriculture-4.0---Integrated-Smart-Irrigation-System/blob/main/Project%20Design/qr%20ar%20app.png)
 
 ## Stay Connected
 
