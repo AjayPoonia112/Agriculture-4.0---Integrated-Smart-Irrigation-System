@@ -36,6 +36,6 @@ Connect with us to stay updated on the progress of our Agriculture 4.0 project:
 
 - [GitHub Repository](https://github.com/AjayPoonia112/Agriculture-4.0---Integrated-Smart-Irrigation-System)
 
-- [LinkedIn](https://www.linkedin.com/company/agriculture4.0)
+- [LinkedIn](https://www.linkedin.com/in/ajay-poonia-988a86225/)
 
 Thank you for your interest in Agriculture 4.0! Together, we're revolutionizing farming practices and driving sustainable agriculture forward.
